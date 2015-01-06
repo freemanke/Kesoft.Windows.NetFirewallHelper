@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kesoft.Windows.NetFirewallHelper", "Kesoft.Windows.NetFirewallHelper\Kesoft.Windows.NetFirewallHelper.csproj", "{CD954225-AB78-47FD-9054-FA44BD242A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kesoft.Windows.NetFirewallHelper.Tests", "Kesoft.Windows.NetFirewallHelper.Tests\Kesoft.Windows.NetFirewallHelper.Tests.csproj", "{4E14D5CC-C5B2-4424-B918-CDAC68B562FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD954225-AB78-47FD-9054-FA44BD242A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD954225-AB78-47FD-9054-FA44BD242A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD954225-AB78-47FD-9054-FA44BD242A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD954225-AB78-47FD-9054-FA44BD242A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E14D5CC-C5B2-4424-B918-CDAC68B562FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E14D5CC-C5B2-4424-B918-CDAC68B562FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E14D5CC-C5B2-4424-B918-CDAC68B562FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E14D5CC-C5B2-4424-B918-CDAC68B562FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
